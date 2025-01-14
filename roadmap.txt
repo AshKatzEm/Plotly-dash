@@ -1,0 +1,7 @@
+We need to figure out what we're even visualizing
+* perhaps need to make date into a single asending string
+* perhaps cardinalize the weather or create an inclemency factor. We can show inclemencyby date
+* Allow the ability to specify what type of weather to view
+* Max-min temp of period
+* visualizing each variable by 12 months, by 30 days, by 24 hours, by 30 x 24 hour bars variable as color
+* polar graph of speed and direction of wind, color by 12 months, or color by 24 hours
