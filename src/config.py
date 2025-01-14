@@ -2,7 +2,7 @@
 from configparser import ConfigParser
 
 
-def config(filename="/Users/asherkatz/Library/CloudStorage/GoogleDrive-asher.katz3@gmail.com/My Drive/Plotly-dash/src/credentials.ini" , section='postgresql'):
+def config(filename="src/credentials.ini" , section='postgresql'):
     # create parser
     parser = ConfigParser()
 
