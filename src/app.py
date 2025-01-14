@@ -7,7 +7,6 @@ from dash import Dash, dcc, html, Input, Output
 import random
 from datetime import date, datetime, timedelta
 import numpy as np
-import pytz
 
 
 app = Dash(__name__)
