@@ -1,6 +1,6 @@
-from src.config import config
+from config import config
 import pandas as pd
-from src.connect import connect
+from connect import connect
 import psycopg2
 import plotly.graph_objects as go # or plotly.express as px
 from dash import Dash, dcc, html, Input, Output  
