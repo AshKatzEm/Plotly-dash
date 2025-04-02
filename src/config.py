@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 from configparser import ConfigParser
 
-
-def config(filename="credentials.ini" , section='postgresql'):
+# def config(filename="src/credentials.ini" , section='postgresql'):
+def config(filename="/Users/asherkatz/Library/CloudStorage/GoogleDrive-asher.katz3@gmail.com/My Drive/SandP_Plotly-dash/src/credentials.ini" , section='postgresql'):
     # create parser
     parser = ConfigParser()
 
